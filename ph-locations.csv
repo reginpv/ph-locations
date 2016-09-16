@@ -1,5 +1,10 @@
 "Region", "Region name", "Province", "City or Municipality name"
-"Region 1", "Ilocos Region", "", ""
+
+"Region 1", "Ilocos Region", "Ilocos Norte", ""
+"Region 1", "Ilocos Region", "Ilocos Sur", ""
+"Region 1", "Ilocos Region", "La Union", ""
+"Region 1", "Ilocos Region", "Pangasinan", ""
+
 "Region 2", "Cagayan Valley", "", ""
 "Region 3", "Central Luzon", "Bulacan", "Malolos"
 "Region 4-A", "Calabarzon", "", ""
